@@ -1,6 +1,8 @@
 function calcularDosagem() {
-    console.log("cálculo correto");
+    consolo.log("cálculo correto");
 }
 
 // Executa a função para testar
 calcularDosagem();
+
+// Adicionei um erro aí "consolo.log"
